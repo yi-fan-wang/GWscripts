@@ -1,0 +1,1 @@
+gw_data_find --observatory H --type H1_GWOSC_O3a_4KHZ_R1 --gps-start-time 1245499381 --gps-end-time 1246249992 --url-type file
